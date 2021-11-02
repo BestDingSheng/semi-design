@@ -1,6 +1,6 @@
 const path = require('path');
 module.exports = {
-    pathPrefix: '/',
+    pathPrefix: '/semi-design',
     siteMetadata: {
         title: 'Gatsby Default Starter',
         description: 'Create a consistent, good-looking, easy-to-use, and efficient user experience with a user-centric, content-first, and human-friendly design system',
